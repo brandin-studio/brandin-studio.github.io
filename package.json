@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/brandin-studio/brandin-studio.github.io/issues"
   },
-  "homepage": "https://www.brandin.de"
+  "homepage": "https://www.brandin.de",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-htmlbuild": "^0.4.1",
+    "gulp-load-plugins": "^1.2.0"
+  }
 }
