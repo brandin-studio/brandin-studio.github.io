@@ -1,0 +1,22 @@
+{
+  "name": "www-brandin-de",
+  "homepage": "https://github.com/brandin-studio/brandin-studio.github.io",
+  "authors": [
+    "Design Studio Brandin <info@brandin.de>"
+  ],
+  "description": "www.brandin.de public website",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "brandin"
+  ],
+  "license": "(c) Copyright 2016 Design Studio Brandin, all rights reserved.",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

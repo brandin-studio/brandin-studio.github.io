@@ -1,0 +1,21 @@
+{
+  "name": "brandin-studio.github.io",
+  "version": "0.0.1",
+  "description": "www.brandin.de public website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandin-studio/brandin-studio.github.io.git"
+  },
+  "keywords": [
+    "brandin"
+  ],
+  "author": "Design Studio Brandin <info@brandin.de>",
+  "license": "(c) Copyright 2016 Design Studio Brandin, all rights reserved.",
+  "bugs": {
+    "url": "https://github.com/brandin-studio/brandin-studio.github.io/issues"
+  },
+  "homepage": "https://www.brandin.de"
+}
